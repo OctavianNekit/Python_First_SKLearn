@@ -1,1 +1,3 @@
-# Python_First_SKLearn
+# Курсовой проект по курсу "Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn"
+
+## Первый опыт в решении задачи машиннного обучения. Модель: Градиентный бустинг.
